@@ -1,0 +1,41 @@
+﻿  C++ Project.cpp
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(189,18): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(190,22): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(191,18): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(194,20): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(195,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(196,20): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(438,19): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(441,18): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(445,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(450,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(453,22): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(461,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(462,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(463,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(464,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(468,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(469,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(470,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(471,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(472,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(473,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(474,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(475,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(479,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(480,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(481,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(482,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(483,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(484,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(485,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(486,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(487,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(488,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(489,23): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(490,24): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(518,14): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(519,18): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(520,18): warning C4309: '=': truncation of constant value
+C:\Users\ibevibingdoe\Desktop\C++ Project\C++ Project\C++ Project.cpp(612,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  C++ Project.vcxproj -> C:\Users\ibevibingdoe\Desktop\C++ Project\Debug\C++ Project.exe
